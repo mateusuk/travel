@@ -25,7 +25,7 @@
 
   ## Usage
 
-  N/A
+  <img src="travel.png" alt="Image" width="50%">
 
   ## License
 
