@@ -13,6 +13,11 @@
   ## Description
   
   A travel website, developed with HTML, CSS, JavaScript.
+  ![HTML](https://img.shields.io/badge/HTML-orange)
+  ![HTML](https://img.shields.io/badge/CSS-blue)
+  ![HTML](https://img.shields.io/badge/JAVASCRIPT-yellow)
+  
+  
 
   ## Preview
 
